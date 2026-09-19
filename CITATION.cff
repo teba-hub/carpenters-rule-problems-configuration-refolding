@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+title: "Planar Polygon Refolding by Energy Matching"
+type: software
+authors:
+  - family-names: "Ba"
+    given-names: "Te"
+    email: "batexu@hnu.edu.cn"
+date-released: 2026-09-19
+license: MIT
+repository-code: "https://github.com/teba-hub/Refolding_Problem"
+url: "https://arxiv.org/abs/2506.06781"
+preferred-citation:
+  type: article
+  title: "Morse theory and moduli spaces of self-avoiding polygonal linkages"
+  authors:
+    - family-names: "Ba"
+      given-names: "Te"
+    - family-names: "Zhou"
+      given-names: "Ze"
+  year: 2025
+  doi: "10.48550/arXiv.2506.06781"
+  url: "https://arxiv.org/abs/2506.06781"
