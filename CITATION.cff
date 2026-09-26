@@ -1,14 +1,15 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the associated paper."
-title: "Planar Polygon Refolding by Energy Matching"
+title: "Implementations for the Carpenter’s Rule Problem and Configuration Refolding"
 type: software
+version: "2.0.0"
 authors:
   - family-names: "Ba"
     given-names: "Te"
     email: "batexu@hnu.edu.cn"
-date-released: 2026-09-19
+date-released: 2026-09-26
 license: MIT
-repository-code: "https://github.com/teba-hub/Refolding_Problem"
+repository-code: "https://github.com/teba-hub/carpenters-rule-problems-configuration-refolding"
 url: "https://arxiv.org/abs/2506.06781"
 preferred-citation:
   type: article
